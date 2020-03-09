@@ -12,9 +12,9 @@ import importlib.util
 cameraNo = 0
 
 casSTM="odtu.xml"
-casODTU="stm6.xml"
+casODTU="stm.xml"
 casORT="ort.xml"
-casH="heli4.xml"
+casH="heli.xml"
 
 objSTM="STM"
 objODTU="ODTU"

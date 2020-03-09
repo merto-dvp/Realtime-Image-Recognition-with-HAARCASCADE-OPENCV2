@@ -5,4 +5,4 @@ Recognition and grabbing coordinates of target images on 640x480 camera input.
 
 Used haarcascade method with opencv2, 30x30 12 stage training.
 
-For more information go to PDF ->
+For more information go to PDF -> https://github.com/merto-dvp/Realtime-Image-Recognition-with-HAARCASCADE-OPENCV2/blob/master/odtuyarisma.pdf
